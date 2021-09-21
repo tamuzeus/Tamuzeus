@@ -1,9 +1,12 @@
+Olá, pode me chamar de Tamuz!
+   ##
+
 - 🌱 I’m currently learning HTML and CSS.
 - 👯 I’m looking to collaborate on any way i can, i need experience and i'm willing to get it!
 - 🤔 I’m looking for help with EVERYTHING, I LOVE LEARNING TO PROGRAM!
 - 📫 How to reach me: igortamuz@gmail.com or @zeus.avi.
 - ⚡ Fun fact: My english is not so good at speaking or writing, but reading is without problems (as you may have noticed HAHAHA!).
-
+   ##
 <div>
   <a href="https://github.com/Tamuzeus">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tamuzeus&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -28,5 +31,7 @@
   <a href="https://www.linkedin.com/in/igor-tamuz-913b001b8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   </div>
+  
+   ##
   
   ![Snake animation](https://github.com/tamuzeus/tamuzeus/blob/output/github-contribution-grid-snake.svg)

@@ -1,6 +1,5 @@
-Olá, pode me chamar de Tamuz!
+<h1> Olá, pode me chamar de Tamuz! <h1>
    ##
-
 - 🌱 I’m currently learning HTML and CSS.
 - 👯 I’m looking to collaborate on any way i can, i need experience and i'm willing to get it!
 - 🤔 I’m looking for help with EVERYTHING, I LOVE LEARNING TO PROGRAM!
@@ -20,9 +19,7 @@ Olá, pode me chamar de Tamuz!
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
-  
    ##
-  
   <div> 
   
   <a href="https://instagram.com/zeus.avi" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -31,7 +28,5 @@ Olá, pode me chamar de Tamuz!
   <a href="https://www.linkedin.com/in/igor-tamuz-913b001b8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   </div>
-  
    ##
-  
   ![Snake animation](https://github.com/tamuzeus/tamuzeus/blob/output/github-contribution-grid-snake.svg)

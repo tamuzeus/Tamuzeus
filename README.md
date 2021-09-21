@@ -1,5 +1,4 @@
- Olá, pode me chamar de Tamuz!
-   ##
+ ## Olá, pode me chamar de Tamuz!
 - 🌱 I’m currently learning HTML and CSS.
 - 👯 I’m looking to collaborate on any way i can, i need experience and i'm willing to get it!
 - 🤔 I’m looking for help with EVERYTHING, I LOVE LEARNING TO PROGRAM!

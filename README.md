@@ -1,5 +1,5 @@
  ## Olá, pode me chamar de Tamuz!
-- 🌱 I’m currently learning HTML and CSS.
+- 🌱 I’m currently learning HTML5, CSS3 and JS.
 - 👯 I’m looking to collaborate on any way i can, i need experience and i'm willing to get it!
 - 🤔 I’m looking for help with EVERYTHING, I LOVE LEARNING TO PROGRAM!
 - 📫 How to reach me: igortamuz@gmail.com or @zeus.avi.

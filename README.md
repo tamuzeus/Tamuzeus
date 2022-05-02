@@ -1,5 +1,5 @@
  ## Olá, pode me chamar de Tamuz!
-- 🌱 I’m currently learning HTML5, CSS3 and JS.
+- 🌱 HTML5, CSS3, SASS,  and JS.
 - 👯 I’m looking to collaborate on any way i can, i need experience and i'm willing to get it!
 - 🤔 https://mygalaxy-tamuz.netlify.app/
 - 📫 How to reach me: igortamuz@gmail.com or @zeus.avi.
@@ -21,6 +21,7 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src=" https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg">
 </div>
  
    ##

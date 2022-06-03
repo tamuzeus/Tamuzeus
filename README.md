@@ -1,5 +1,5 @@
  ## Hi, you can call me Tamuz!
-- 🌱 HTML5, CSS3, SASS and JS.
+- 🌱 HTML5, CSS3, Boostrap, SASS and JS.
 - 🤔 https://mygalaxy-tamuz.netlify.app/
 - 📫 How to reach me: igortamuz@gmail.com or @zeus.avi.
 
